@@ -90,7 +90,7 @@ html {
 .heder {
   padding: 20px;
 }
-.heder .container{
+.heder .continer{
   display: flex;
   justify-content: space-between;
   align-items: center;
