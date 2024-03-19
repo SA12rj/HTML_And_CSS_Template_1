@@ -17,7 +17,7 @@
  letter-spacing: -3px;
  margin: 0;
 }
-.spcial-heading + p{
+.spcial-heading + p {
   margin: -30px 0 0;
   font-size: 20px;
   text-align: center;
@@ -234,7 +234,7 @@ line-height: 1.8;
 .services{
   padding-bottom: var(--section-padding);
   padding-top: var(--section-padding);
-  padding-left: var(--section-padding); 
+   
 }
 .services .services-content {
  display: grid;
